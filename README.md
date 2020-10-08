@@ -28,8 +28,11 @@ In this project, you build an app that let's you display a todo list from reduce
 ### Task 2a: Minimum Viable Product
 
 1. Set an initial state value through a reducer and render a list of todos from that state
+x
 2. Add a form that dispatches an "ADD_TODO" action to be able to add a todo item to your list
+x
 3. Build a function that let's you mark todo items as completed when you click on them
+
 4. Build a function that let's you clear completed todos when you click on a "Clear Completed" button
 
 #### Build a simple reducer and initial state
